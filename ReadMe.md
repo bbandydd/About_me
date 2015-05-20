@@ -12,7 +12,12 @@
 ## 能力說明
 
 1. 二年 ASP.NET開發經驗
+	- 使用語言：C#
+	- 使用工具：Visual Studio
+	- 資料庫：Microsoft SQL Server
 2. 一年 前端網頁開發經驗
+	- Javascript
+	- JQury
 3. 喜歡與團隊一起解決問題
 
 ## 專精於
@@ -26,3 +31,4 @@
 - 中國信託金流串接
 - API介接
 - IIS網站架設
+- 懂版本控制 Git及 Github
