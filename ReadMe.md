@@ -5,13 +5,16 @@
 - Education: 長榮大學-資管所碩士 
 - Latest Portfolio:
 	- 參與社群活動：高雄前端社群、Kaohsiung Rails Meetup
+	- 積極參與Workshop
+		- Scrum 
+		- Git / Github
+		- coServ
 
 
 ## 2015 目標
 
 - Responsive Web Design
 - Ruby on Rails
-- AngularJS
 
 ## Professional Tools
 
