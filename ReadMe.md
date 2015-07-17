@@ -1,23 +1,26 @@
 # 蔡昇倫
 
+- GitHub: https://github.com/bbandydd/About_me
 - Personal Blog: https://bbandydd.github.io/hexoBlog
 - Birthday: Aug 9th, 1988
 - Education: 長榮大學-資管所碩士 
 - Latest Portfolio:
-	- 參與社群活動：高雄前端社群、Kaohsiung Rails Meetup
+	- 參與社群活動：高雄前端社群
 	- 積極參與Workshop
 		- Scrum 
 		- Git / Github
-		- coServ
 
 
 ## 2015 目標
 
 - Responsive Web Design
-- Ruby on Rails
+- AngularJS
 
 ## Professional Tools
 
+- HTML & CSS
+	- SASS
+	- RWD
 - Scripting and Programming Language
 	- Javascript / jQuery Plugin
 - ASP.NET
@@ -29,7 +32,9 @@
 
 ## Professional Skill
 
+- 雲端電子書平台開發
 - 互動式電子書線上編輯器開發
+- 電子要保書系統開發
 - 中國信託金流串接
 - IIS網站架設
 - API介接
