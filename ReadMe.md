@@ -22,6 +22,7 @@
 	- SASS
 	- RWD
 - Scripting and Programming Language
+	- One year Experience
 	- Javascript / jQuery Plugin
 - ASP.NET
 	- Two years Experience
