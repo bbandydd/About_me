@@ -1,15 +1,15 @@
 # 蔡昇倫
 
 - GitHub: https://github.com/bbandydd/About_me
-- Personal Blog: https://bbandydd.github.io/hexoBlog
 - Birthday: Aug 9th, 1988
 - Education: 長榮大學-資管所碩士 
 - Latest Portfolio:
-	- 參與社群活動：高雄前端社群
-	- 積極參與Workshop
-		- Scrum 
-		- Git / Github
-
+	- 高雄前端社群
+		- 講師：
+			- 高雄前端社群#21 - React Party
+			- 高雄前端社群#19 - CoffeeScript & Github Service
+		- 助教
+			- 高雄前端社群#20 - 潮到不行的 Node.js workshop
 
 ## 2015 目標
 
@@ -24,6 +24,7 @@
 - Scripting and Programming Language
 	- One year Experience
 	- Javascript / jQuery Plugin
+	- AngularJS
 - ASP.NET
 	- Two years Experience
 	- using C#
@@ -35,8 +36,10 @@
 
 - 雲端電子書平台開發
 - 互動式電子書線上編輯器開發
+- 企業輔銷系統
+- 婚紗輔銷系統
 - HTML5、EPUB3 Reader
-- 電子要保書系統開發
+- 電子要保書系統
 - 中國信託金流串接
 - IIS網站架設
 - API介接
@@ -44,7 +47,7 @@
 	- 簡訊
 	- 取得資訊
 - 懂版本控制 Git及 Github
-- 熟悉 HTML5, CSS3, Javascript, jQuery等技術
+- 熟悉 HTML5, CSS3, Javascript, jQuery, AngularJS等技術
 - 對新技術研究有熱情
 - 擅於與團隊溝通，相互瞭解開發狀況
 
