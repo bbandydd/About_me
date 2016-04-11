@@ -32,6 +32,7 @@
 	- Express
 - Database
 	- Microsoft SQL Server
+	- MySQL
 	- MongoDB
 
 ## Professional Skill
@@ -45,11 +46,10 @@
 - 中國信託金流串接
 - IIS網站架設
 - API介接
-	- 登入
-	- 簡訊
-	- 取得資訊
-- 懂版本控制 Git及 Github
-- 熟悉 HTML5, CSS3, Javascript, jQuery, AngularJS等技術
+- 工業局儀表板
+- 室內定位位置呈現元件
+- 懂版本控制 Git
+- 熟悉 HTML5, CSS3, Javascript, jQuery, AngularJS, ReactJS, NodeJS等技術
 - 對新技術研究有熱情
 - 擅於與團隊溝通，相互瞭解開發狀況
 
