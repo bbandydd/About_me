@@ -1,6 +1,6 @@
 # 蔡昇倫
 
-- GitHub: https://github.com/bbandydd/About_me
+- GitHub: https://github.com/bbandydd
 - Birthday: Aug 9th, 1988
 - Education: 長榮大學-資管所碩士 
 - Latest Portfolio:
@@ -11,10 +11,10 @@
 		- 助教
 			- 高雄前端社群#20 - 潮到不行的 Node.js workshop
 
-## 2015 目標
+## 2016 目標
 
 - Responsive Web Design
-- AngularJS
+- React Native
 
 ## Professional Tools
 
@@ -22,15 +22,17 @@
 	- SASS
 	- RWD
 - Scripting and Programming Language
-	- One year Experience
 	- Javascript / jQuery Plugin
 	- AngularJS
+	- ReactJS / Flux
 - ASP.NET
-	- Two years Experience
 	- using C#
 	- Visual Studio
+- NodeJS
+	- Express
 - Database
 	- Microsoft SQL Server
+	- MongoDB
 
 ## Professional Skill
 
