@@ -2,7 +2,7 @@
 
 - GitHub: https://github.com/bbandydd
 - Birthday: Aug 9th, 1988
-- Education: 長榮大學-資管所碩士 
+- Education: 長榮大學-資管所碩士
 - Latest Portfolio:
 	- 高雄前端社群
 		- 講師：
@@ -14,7 +14,7 @@
 ## 2016 目標
 
 - Responsive Web Design
-- React Native
+- React / Redux
 
 ## Professional Tools
 
@@ -24,7 +24,7 @@
 - Scripting and Programming Language
 	- Javascript / jQuery Plugin
 	- AngularJS
-	- ReactJS / Flux
+	- ReactJS / Flux / Redux
 - ASP.NET
 	- using C#
 	- Visual Studio
@@ -54,7 +54,7 @@
 - 擅於與團隊溝通，相互瞭解開發狀況
 
 ##Personal Attributes
-	
+
 - 做中學熱愛前端技術類文章，追求新知識
 - 喜歡創新、注重團隊溝通與細節
 - 快速融入並為團隊創造好的工作氛圍
