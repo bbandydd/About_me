@@ -11,18 +11,23 @@
 		- 助教
 			- 高雄前端社群#20 - 潮到不行的 Node.js workshop
 
+# 工作經歷
+
+- 哈瑪星科技 (2012/10 ~ 2015/12)
+- 緯創資通 (2016/01 ~ 至今)
+
 ## 2016 目標
 
 - Responsive Web Design
 - React / Redux
 
-## Professional Tools
+## Professional Skill
 
 - HTML & CSS
 	- SASS
 	- RWD
-- Scripting and Programming Language
-	- Javascript / jQuery Plugin
+- Javascript and Frameworks
+	- jQuery
 	- AngularJS
 	- ReactJS / Flux / Redux
 - ASP.NET
@@ -34,8 +39,15 @@
 	- Microsoft SQL Server
 	- MySQL
 	- MongoDB
+- E2E Test
+	- NightwatchJS
+- 懂版本控制 Git
+- 對新技術研究有熱情
+- 擅於與團隊溝通，相互瞭解開發狀況
+- IIS網站架設
+- API介接
 
-## Professional Skill
+## Portfolio
 
 - 雲端電子書平台開發
 - 互動式電子書線上編輯器開發
@@ -44,14 +56,9 @@
 - HTML5、EPUB3 Reader
 - 電子要保書系統
 - 中國信託金流串接
-- IIS網站架設
-- API介接
 - 工業局儀表板
 - 室內定位位置呈現元件
-- 懂版本控制 Git
-- 熟悉 HTML5, CSS3, Javascript, jQuery, AngularJS, ReactJS, NodeJS等技術
-- 對新技術研究有熱情
-- 擅於與團隊溝通，相互瞭解開發狀況
+- 數位雲端學習平台
 
 ##Personal Attributes
 
