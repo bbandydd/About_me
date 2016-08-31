@@ -1,6 +1,7 @@
 # 蔡昇倫
 
 - GitHub: https://github.com/bbandydd
+- Blog: http://bbandydd.github.io/blog
 - Birthday: Aug 9th, 1988
 - Education: 長榮大學-資管所碩士
 - Latest Portfolio:
