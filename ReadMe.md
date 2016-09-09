@@ -3,7 +3,6 @@
 - GitHub: https://github.com/bbandydd
 - Blog: http://bbandydd.github.io/blog
 - Birthday: Aug 9th, 1988
-- Education: 長榮大學-資管所碩士
 - Latest Portfolio:
 	- 高雄前端社群
 		- 講師：
@@ -12,7 +11,12 @@
 		- 助教
 			- 高雄前端社群#20 - 潮到不行的 Node.js workshop
 
-# 工作經歷
+## 學歷
+
+- 長榮大學 資訊管理所 (2010 ~ 2012)
+- 長榮大學 資訊工程系 (2006 ~ 2010)
+
+## 工作經歷
 
 - 哈瑪星科技 (2012/10 ~ 2015/12)
 - 緯創資通 (2016/01 ~ 至今)
@@ -40,7 +44,8 @@
 	- Microsoft SQL Server
 	- MySQL
 	- MongoDB
-- E2E Test
+- Unit Test
+	- Mocha
 	- NightwatchJS
 - 懂版本控制 Git
 - 對新技術研究有熱情
