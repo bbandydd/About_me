@@ -35,6 +35,7 @@
 	- jQuery
 	- AngularJS
 	- ReactJS / Flux / Redux
+	- ES6
 - ASP.NET
 	- using C#
 	- Visual Studio
@@ -47,6 +48,8 @@
 - Unit Test
 	- Mocha
 	- NightwatchJS
+- Module Bunder
+	- Webpack
 - 懂版本控制 Git
 - 對新技術研究有熱情
 - 擅於與團隊溝通，相互瞭解開發狀況
