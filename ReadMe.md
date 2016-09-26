@@ -3,13 +3,14 @@
 - GitHub: https://github.com/bbandydd
 - Blog: http://bbandydd.github.io/blog
 - Birthday: Aug 9th, 1988
-- Latest Portfolio:
-	- 高雄前端社群
-		- 講師：
-			- 高雄前端社群#21 - React Party
-			- 高雄前端社群#19 - CoffeeScript & Github Service
-		- 助教
-			- 高雄前端社群#20 - 潮到不行的 Node.js workshop
+- 高雄前端社群
+	- 講師：
+		- 高雄前端社群#21 - React Party
+		- 高雄前端社群#19 - CoffeeScript & Github Service
+	- 助教
+		- 高雄前端社群#20 - 潮到不行的 Node.js workshop
+- 線上ReactJS讀書會
+	- 社團管理員
 
 ## 學歷
 
