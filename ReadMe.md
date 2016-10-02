@@ -11,6 +11,8 @@
 		- 高雄前端社群#20 - 潮到不行的 Node.js workshop
 - 線上ReactJS讀書會
 	- 社團管理員
+	- 講師：
+		- 2016/10/3 - Nightwatch + React todoMVC
 
 ## 學歷
 
