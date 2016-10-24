@@ -55,6 +55,8 @@
 	- NightwatchJS
 - Module Bunder
 	- Webpack
+- Crawler
+	- cheerio
 - 懂版本控制 Git
 - 對新技術研究有熱情
 - 擅於與團隊溝通，相互瞭解開發狀況
