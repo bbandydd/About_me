@@ -14,8 +14,6 @@
 	- 講師：
 		- 2016/10/3 - Nightwatch + React todoMVC
 		- 2016/11/21 - 前端工程師入門 Javascript Introduction
-- 線上讀書會 - react實戰
-	- 社團管理員
 
 ## 學歷
 
