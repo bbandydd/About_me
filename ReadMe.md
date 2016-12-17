@@ -14,6 +14,7 @@
 	- 講師：
 		- 2016/10/3 - Nightwatch + React todoMVC
 		- 2016/11/21 - 前端工程師入門 Javascript Introduction
+		- 2016/12/17 - React + Redux Workshop
 
 ## 學歷
 
