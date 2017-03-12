@@ -26,6 +26,11 @@
 - 哈瑪星科技 (2012/10 ~ 2015/12)
 - 緯創資通 (2016/01 ~ 至今)
 
+## 2016 目標
+
+- Responsive Web Design
+- ReactJS / Redux
+
 ## 2017 目標
 
 - Advanced React / Redux
@@ -52,7 +57,7 @@
 	- Microsoft SQL Server
 	- MySQL
 	- MongoDB
-- Unit Test
+- Testing
 	- Mocha
 	- NightwatchJS
 - Module Bunder
