@@ -12,9 +12,14 @@
 - 線上ReactJS讀書會
 	- 社團管理員
 	- 講師：
-		- 2016/10/3 - Nightwatch + React todoMVC
+		- 2016/10/03 - Nightwatch + React todoMVC
 		- 2016/11/21 - 前端工程師入門 Javascript Introduction
 		- 2016/12/17 - React + Redux Workshop
+		- 2016/01/09 - javascript 入門 火力加強版
+- Javascript設計模式讀書會
+	- 講師：
+		- 2017/03/21 - React入門到Redux(上)
+		- 2017/03/28 - React入門到Redux(下)
 
 ## 學歷
 
@@ -33,24 +38,23 @@
 
 ## 2017 目標
 
-- Advanced React / Redux
-- VueJS
 - Javascript Functional Programing
+- Advanced React / Redux
+- Mobx + React
+- VueJS
 - RxJS
 
 ## Professional Skill
 
 - HTML & CSS
 	- SASS
-	- RWD
 - Javascript and Frameworks
 	- jQuery
-	- AngularJS
-	- ReactJS / Flux / Redux
+	- AngularJS 1
+	- ReactJS / Flux / Redux / Mobx
 	- ES6
 - ASP.NET
 	- using C#
-	- Visual Studio
 - NodeJS
 	- Express
 - Database
