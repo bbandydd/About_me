@@ -3,6 +3,8 @@
 - GitHub: https://github.com/bbandydd
 - Blog: http://bbandydd.github.io/blog
 - Birthday: Aug 9th, 1988
+- ReactMaker
+	- 共同創辦人
 - 高雄前端社群
 	- 講師：
 		- 高雄前端社群#21 - React Party
@@ -16,6 +18,7 @@
 		- 2016/11/21 - 前端工程師入門 Javascript Introduction
 		- 2016/12/17 - React + Redux Workshop
 		- 2016/01/09 - javascript 入門 火力加強版
+		- 2017/06/21 - Mobx VS Redux
 - Javascript設計模式讀書會
 	- 講師：
 		- 2017/03/21 - React入門到Redux(上)
@@ -31,38 +34,47 @@
 - 哈瑪星科技 (2012/10 ~ 2015/12)
 - 緯創資通 (2016/01 ~ 至今)
 
-## 2016 目標
+## 2018 目標
 
-- Responsive Web Design
-- ReactJS / Redux
+- RxJS
+- Javascript Functional Programming
+- VueJS
+- AngularJS
 
 ## 2017 目標
 
-- Javascript Functional Programing
+- Javascript Functional Programming
 - Advanced React / Redux
 - Mobx + React
 - VueJS
 - RxJS
 
+## 2016 目標
+
+- Responsive Web Design
+- ReactJS / Redux
+
 ## Professional Skill
 
 - HTML & CSS
 	- SASS
+	- LESS
 - Javascript and Frameworks
 	- jQuery
-	- AngularJS 1
+	- AngularJS
 	- ReactJS / Flux / Redux / Mobx
 	- ES6
+	- TypeScript
 - ASP.NET
 	- using C#
 - NodeJS
-	- Express
 - Database
 	- Microsoft SQL Server
 	- MySQL
 	- MongoDB
 - Testing
 	- Mocha
+	- Jest
 	- NightwatchJS
 - Module Bunder
 	- Webpack
@@ -86,8 +98,9 @@
 - 工業局儀表板
 - 室內定位位置呈現元件
 - 數位雲端學習平台
+- 自動販賣機系統後台
 
-##Personal Attributes
+## Personal Attributes
 
 - 做中學熱愛前端技術類文章，追求新知識
 - 喜歡創新、注重團隊溝通與細節
