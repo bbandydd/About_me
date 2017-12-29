@@ -36,10 +36,9 @@
 
 ## 2018 目標
 
-- RxJS
-- Javascript Functional Programming
-- VueJS
-- AngularJS
+- Nest.js
+- React Native
+- Rx.js
 
 ## 2017 目標
 
@@ -59,11 +58,12 @@
 - HTML & CSS
 	- SASS
 	- LESS
+	- styled-components
 - Javascript and Frameworks
 	- jQuery
 	- AngularJS
 	- ReactJS / Flux / Redux / Mobx
-	- ES6
+	- ES6/ES7 
 	- TypeScript
 - ASP.NET
 	- using C#
